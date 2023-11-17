@@ -1,0 +1,3 @@
+[submodule "testes_mobile"]
+	path = testes_mobile
+	url = https://github.com/luispimenta95/testes_mobile.git
